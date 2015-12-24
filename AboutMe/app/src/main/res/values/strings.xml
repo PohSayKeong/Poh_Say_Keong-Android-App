@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="introduction">Hi, my name is Poh Say Keong and I am a 14-year-old student currently studying in Singapore. I am still pretty new to the concept of coding,
+         I picked it up as a hobby probably a year ago. However I do not have a lot of time to work on my skills, the only time I am engaged
+         in coding is probably in the Infocomm Club that I am part of in school.</string>
+</resources>
