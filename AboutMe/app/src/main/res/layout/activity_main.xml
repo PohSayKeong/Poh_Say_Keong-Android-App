@@ -18,6 +18,6 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/me"
         android:text="@string/introduction"
-        android:textColor="#ffffff"
+        android:textColor="#ffff00"
         android:textSize="18sp"/>
 </RelativeLayout>
